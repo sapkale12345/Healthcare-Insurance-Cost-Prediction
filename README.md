@@ -1,4 +1,5 @@
-# Healthcare Insurance Cost Prediction using Machine Learning
+# Healthcare Insurance Cost Prediction Using Medical and Lifestyle Factors
+
 
 ## Project Overview
 This project aims to predict individual healthcare insurance costs using statistical analysis and machine learning models.  
